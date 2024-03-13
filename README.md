@@ -1,3 +1,4 @@
+<p><img src="https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg" style="width:100%"/></p>
 <h1 align="left">Hi 👋, I'm Vindula Pahasarani</h1>
 <h3 align="left">Web Developer</h3>
 
