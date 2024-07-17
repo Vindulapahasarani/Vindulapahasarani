@@ -1,5 +1,5 @@
 <p><img src="https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg" style="width:100%"/></p>
-<h1 align="left">Hi 👋, I'm Vindula Pahasarani</h1>
+<h1 align="left">Hi there! I'm Vindula Pahasarani, a passionate web developer and machine learning enthusiast. I specialize in creating dynamic and user-friendly web applications, while also diving into the world of machine learning to build intelligent systems. My projects range from designing beautiful event templates to developing advanced health diagnosis systems using deep learning. Let's connect and collaborate on innovative ideas!</h1>
 <h3 align="left">Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vindulapahasarani&label=Profile%20views&color=0e75b6&style=flat" alt="vindulapahasarani" /> </p>
