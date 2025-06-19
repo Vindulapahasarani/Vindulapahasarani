@@ -15,6 +15,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vindulapahasarani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
 
 ### 🚀 About Me
 
@@ -131,10 +136,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vindulapahasarani&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Separator"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vindulapahasarani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
