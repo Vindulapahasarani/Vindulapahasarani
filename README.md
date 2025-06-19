@@ -10,19 +10,19 @@
 
 <p align="center">
   <a href="mailto:vindulapahasarani@gmail.com">📧 Email</a> • 
-  <a href="https://vindulapahasarani.github.io" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://linkedin.com/in/your-linkedin">🔗 LinkedIn</a>
+  <a href="https://nextjs-portfolio-website-mu.vercel.app/" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/vindula-pahasarani-395ab9236/" target="_blank">🔗 LinkedIn</a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 I'm a Computer Science undergraduate passionate about tech and innovation
-- 💻 I love building clean, fast, and user-friendly web applications
-- 🧠 I'm exploring AI & Deep Learning — from health diagnostics to emotion detection
-- ✨ I'm also into UI/UX and making things look beautiful in the browser
-- 🧩 I enjoy solving real-world problems through creative coding
+- 🎓 I'm a Computer Science undergraduate passionate about tech and innovation  
+- 💻 I love building clean, fast, and user-friendly web applications  
+- 🧠 I'm exploring AI & Deep Learning — from health diagnostics to emotion detection  
+- ✨ I'm also into UI/UX and making things look beautiful in the browser  
+- 🧩 I enjoy solving real-world problems through creative coding  
 
 ---
 
@@ -52,11 +52,12 @@
 
 ### 🧠 Currently Learning
 
-- Advanced **React/Next.js** with TypeScript
-- **TensorFlow** and **PyTorch** for deep learning
-- Building custom APIs with **Spring Boot**
-- UI/UX principles using **Figma**
+- Advanced **React/Next.js** with TypeScript  
+- **TensorFlow** and **PyTorch** for deep learning  
+- Building custom APIs with **Spring Boot**  
+- UI/UX principles using **Figma**  
 
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vindulapahasarani&label=Profile%20views&color=0e75b6&style=flat" alt="vindulapahasarani" />
