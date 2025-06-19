@@ -20,7 +20,7 @@
 ### 🚀 About Me
 
 - 🎓 Computer Science undergraduate passionate about tech & innovation  
-- 💼 Full Stack Developer at **MIV**  
+- 💼 Currently Intern Full Stack Developer at **MIV**  
 - 💻 Building clean, fast, and user-friendly web applications  
 - 🧠 Exploring AI & Deep Learning — from health diagnostics to emotion detection  
 - ✨ Passionate about UI/UX and making things look beautiful in the browser  
@@ -49,14 +49,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-- 🧾 **[Salon Booking System](https://github.com/vindulapahasarani/salon-booking)** – Full-stack booking platform with admin & user dashboards, Stripe integration.
-- 📊 **[Emotion Detector](https://github.com/vindulapahasarani/emotion-detector)** – AI-powered app to detect emotions from facial expressions.
-- 🧠 **[Next.js Portfolio](https://github.com/vindulapahasarani/nextjs-portfolio-website)** – Fully responsive developer portfolio built with Next.js and Tailwind.
 
 ---
 
