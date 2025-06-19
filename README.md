@@ -26,19 +26,6 @@
 
 ---
 
-### 💼 Projects I’m Proud Of
-
-- 🧬 **Health Diagnosis System**  
-  Deep Learning-based Pneumonia & Tuberculosis detection using X-ray datasets  
-- 🎨 **Event Design Templates**  
-  Beautiful, reusable designs for wedding/event websites  
-- 🎮 **Emoji Generator with GANs**  
-  Built with Generative Adversarial Networks  
-- 📸 **Baby Posture Detection System**  
-  A computer vision project to monitor infant posture in real-time
-
----
-
 ### 🛠️ Technologies & Tools
 
 <p align="left">
