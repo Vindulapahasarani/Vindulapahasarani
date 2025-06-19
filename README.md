@@ -26,11 +26,49 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Skills & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,nodejs,php,flutter,java,python,c,cpp,git,mysql,mongodb,sqlite,linux,figma,photoshop" />
-</p>
+#### 👩‍💻 Programming Languages
+`C` `C++` `C#` `Java` `JavaScript` `TypeScript` `PHP` `Python`
+
+#### 🎨 Frontend Development
+`Vue.js` `React.js` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS` `Redux`
+
+#### ⚙️ Backend Development
+`Node.js` `Spring` `Express.js` `GraphQL` `NestJS`
+
+#### 📱 Mobile App Development
+`Flutter` `React Native`
+
+#### 🤖 AI / Machine Learning
+`TensorFlow` `PyTorch` `Pandas` `Seaborn` `OpenCV` `Scikit-learn`
+
+#### 🧮 Databases
+`MongoDB` `MySQL`
+
+#### 📊 Data Visualization
+`D3.js` `Chart.js` `CanvasJS`
+
+#### ☁️ DevOps & Cloud
+`AWS` `GCP` `Azure` `Bash`
+
+#### 🔧 Frameworks
+`Django` `.NET` `Laravel` `Flask`
+
+#### 🧪 Testing
+`Maven` `Selenium`
+
+#### 🖌️ Design & Software Tools
+`Adobe Illustrator` `Photoshop` `Adobe XD` `Figma` `MATLAB` `Postman`
+
+#### 🧱 Static Site Generators
+`Next.js`
+
+#### 🕹 Game Engines
+`Unity`
+
+#### 💻 Other Tools
+`Linux` `Git`
 
 ---
 
