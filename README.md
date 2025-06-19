@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Header Image" width="100%" />
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="Minimal Dev" width="100%" />
 </p>
+
 
 <h1 align="center">Hi there! 👋 I'm Vindula Pahasarani</h1>
 
