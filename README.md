@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="Minimal Dev" width="100%" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Working on Laptop" width="100%" />
 </p>
-
 
 <h1 align="center">Hi there! 👋 I'm Vindula Pahasarani</h1>
 
