@@ -27,6 +27,14 @@
 - 🧩 Solving real-world problems through creative code  
 
 ---
+### 🧠 Currently Learning
+
+- ⚛️ Advanced **React/Next.js** with TypeScript  
+- 🔬 **TensorFlow** and **PyTorch** for Deep Learning  
+- 🌐 RESTful APIs with **Spring Boot**  
+- 🎨 Designing UI/UX using **Figma**  
+
+---
 
 ### 🛠️ Skills & Technologies
 
@@ -70,14 +78,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Separator"/>
 
-### 🧠 Currently Learning
-
-- ⚛️ Advanced **React/Next.js** with TypeScript  
-- 🔬 **TensorFlow** and **PyTorch** for Deep Learning  
-- 🌐 RESTful APIs with **Spring Boot**  
-- 🎨 Designing UI/UX using **Figma**  
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vindulapahasarani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
