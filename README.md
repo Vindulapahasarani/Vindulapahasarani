@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
-)" alt="Coding Girl" width="100%" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl" width="100%" />
 </p>
 
 
