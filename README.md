@@ -5,7 +5,7 @@
 <h1 align="center">Hi there! 👋 I'm Vindula Pahasarani</h1>
 
 <p align="center">
-🌐 Full-Stack Developer | 🤖 Machine Learning Enthusiast | 💡 Open Source Contributor  
+🌐 Full-Stack Developer | 🤖 Machine Learning Enthusiast 
 </p>
 
 <p align="center">
